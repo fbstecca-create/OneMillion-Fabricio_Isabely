@@ -144,3 +144,11 @@ footer h5{
 .creditos p{
 	color:white;
 }
+
+.ancora-topo {
+  display: block;
+  text-align: right;
+  text-decoration: none;
+  color:#d4af37;
+  font-family: Arial, sans-serif;
+}
